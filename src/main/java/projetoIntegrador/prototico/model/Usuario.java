@@ -32,6 +32,7 @@ public class Usuario implements UserDetails {
     private String email;
 
     @NotBlank
+    @JsonIgnore
     private String senha;
 
     @NotBlank
