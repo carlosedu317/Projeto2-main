@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PrototicoApplication<prototico>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "projetoIntegrador.prototico.PrototicoApplication",
+            "projectName": "prototico",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
